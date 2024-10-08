@@ -8,8 +8,8 @@ This program asks the user for a string and finds the characters that appear mos
 - Make sure you have a C++ compile installed
 
 # Compilation 
-To compile the program, use the following command in the terminal 
+To compile the program, use the following command in the terminal: 
 g++ -o homework2 homework2,cpp 
 
-Once compiled, you can run the program 
+Once compiled, you can run the program using the following command:
 ./homework2
